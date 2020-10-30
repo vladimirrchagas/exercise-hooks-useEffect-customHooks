@@ -42,6 +42,6 @@ Para cada PR realize esse processo.
 
 #### Exercício 1
 
-Refatore a aplicação disponibilizada na branch `exercise-one`, que fizemos no bloco 18.1 sobre movimento de imagens e trafficLight, utilizando Hooks. Transforme todos os componentes de classe em componente funcionais.
+Refatore a aplicação disponibilizada na branch `exercise-one`, que fizemos no bloco 18.1 sobre Reddit, utilizando Hooks. Transforme todos os componentes de classe em componente funcionais.
 
 ---
