@@ -2,11 +2,11 @@ import React from 'react';
 import { render } from 'react-dom';
 
 import App from './App';
-import { Provider } from './components/RedditContext';
+import RedditContext from './components/RedditContext';
 
 render(
-  <Provider>
+  <RedditContext>
     <App />
-  </Provider>,
+  </RedditContext>,
   document.getElementById('root'),
 );
